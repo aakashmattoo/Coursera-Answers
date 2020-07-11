@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aakashmattoo/COURSERA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# HTML, CSS and Javascript for Web Developers
+### *My solutions to the assignments of the Coursera course.*
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+## About
+*Hola!!! I am **Aakash Mattoo**. Welcome to my repository.
+This repository contains my solutions to the assignments of the Coursera course*
+```markdown
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+## My Work
+All are assigned some assignments by the COURSERA. *I have completed my assignment. 
+I hope you justify my performance with your grading. Have a look below.*
 
-### Jekyll Themes
+### Module 1 
+*GRADED QUIZ*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aakashmattoo/COURSERA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- *[Assignment 1 description]( https://aakashmattoo.github.io/COURSERA/mod-1-sol/1.html)*
+- **[Solution of Assignment 1](https://aakashmattoo.github.io/COURSERA_TEST/mod-1-sol/1.html)**
 
-### Support or Contact
+### Module 2 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- *[Assignment 2 description]( https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)*
+- **[Solution of Assignment 2](https://aakashmattoo.github.io/COURSERA/mod-2-sol/index1.html)**
+
+### Module 3 
+
+* *[Assignment 3 description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)*
+* **[Solution of Assignment 3](https://aakashmattoo.github.io/COURSERA/mod-3-sol/index2.html)**
+
+### Module 4 
+
+* *[Assignment 4 description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)*
+* **[Solution of Assignment 4]()**
+
+```markdown  
+
+```
+## Contact
+Having trouble with Pages? Please mail me at  @aakash.mattoo2019@vitbhopal.ac.in
+
+
+
+
