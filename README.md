@@ -17,7 +17,7 @@ I hope you justify my performance with your grading. Have a look below.*
 *GRADED QUIZ*
 
 - *[Assignment 1 description]( https://aakashmattoo.github.io/COURSERA/mod-1-sol/1.html)*
-- **[Solution of Assignment 1](https://aakashmattoo.github.io/COURSERA_TEST/mod-1-sol/1.html)**
+- **[Solution of Assignment 1](https://aakashmattoo.github.io/COURSERA/mod-1-sol/1.html)**
 
 ### Module 2 
 
