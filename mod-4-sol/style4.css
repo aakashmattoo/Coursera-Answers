@@ -1,0 +1,99 @@
+/** AAKASH MATTOO*/
+body{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: #660066;
+    background-color: plum;
+    margin-left: 5px;
+}
+
+
+body>div{ color : #cc33ff; }
+
+
+/** AAKASH MATTOO*/
+
+h2 {
+    color: #0000b3;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    margin : 0px;
+    text-align: center;
+    box-shadow: black;
+}
+h1 {
+    color:  white;
+    font-family: 'Cabin Sketch', cursive;
+    font-size :80px;
+    margin : 0px;
+    text-align: center;
+}
+h3 {
+    color: black ;
+   font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    margin : 0px;
+}
+
+
+/** AAKASH MATTOO*/
+ a {
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+    font-size: 1.4em;
+}
+/** AAKASH MATTOO*/
+a:hover {
+    color: #ff6666;
+    background-color: black;
+    text-decoration: none;
+    text-shadow: 6px black;
+}
+section {
+ text-align: center;
+ 
+}
+#main-section{
+    align-content: center;
+    background-color: none;
+    text-align: center;
+    width: 220px;
+    font-family: 'Lato', sans-serif;
+    height: 80px;
+    font-size: 25px;
+}
+/** AAKASH MATTOO*/
+
+footer {
+    font-size: 25px;
+    text-align: right;
+    margin-right: 10px;
+    color: #0000b3;
+
+    font-family: 'Cabin Sketch', cursive;
+
+}
+
+button.navbar-toggle:hover
+ {
+    background-color: black;
+    color: plum;
+}
+
+
+button.navbar-toggle{
+    border: 2px solid white+;
+    background-color: plum;
+    text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+
+
+/** THIS IS END HOME PAGE **/
+/** AAKASH MATTOO*/
