@@ -1,0 +1,116 @@
+/** AAKASH MATTOO*/
+body{
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    background-color: #8B008B;
+}
+#header-nav {
+    background-color: #DDA0DD;
+    border-radius: 0;
+    border: 0;
+}
+/** AAKASH MATTOO*/
+#header-nav button {
+    margin-top: 22px;
+}
+/** AAKASH MATTOO*/
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #D8BFD8;
+}
+.navbar-collapse {
+    border-top: 0;
+}
+/** AAKASH MATTOO*/
+.navbar-brand {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+.navbar-nav li a {
+    line-height: 50px;
+    height: 50px;
+ }   
+/** AAKASH MATTOO*/
+
+.navbar-brand h1 {
+    color:  #7d0552;
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+}
+.navbar-brand a:hover {
+    text-decoration: blink;
+    text-shadow: 4px 4px 4px #FFA07A;
+}
+#nav-list {
+    background-color: #4B0082;
+}
+/** AAKASH MATTOO*/
+#nav-list a {
+    text-align: center;
+    font-weight: bolder;
+    color: plum;
+    font-size: 1.2em;
+}
+/** AAKASH MATTOO*/
+#nav-list a:hover {
+    color: #202020;
+    background-color: #E6E6FA;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1.5px solid #7D0552;
+}
+/** AAKASH MATTOO*/
+
+/** THIS IS FOR END HEADER */
+/** AAKASH MATTOO*/
+
+
+/** HOME PAGE **/
+
+#main-content {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+/** AAKASH MATTOO*/
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-section {
+    background-color: #483D8B;
+    box-shadow: 0 0 30px #FFB6C1;
+    padding: 30px;
+}
+footer {
+    font-size: 20px;
+    text-align: center;
+    margin-right: 10px;
+    color: #FFC0CB
+}
+.foot{
+    color :#8b008b;}
+
+.foot a{
+    ont-size: 15px;
+    color: white;
+   }
+
+.foot a:hover {
+    color: #202020;
+    background-color: #E6E6FA;
+}
+
+/** THIS IS END HOME PAGE **/
+/** AAKASH MATTOO*/
