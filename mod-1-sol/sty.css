@@ -1,0 +1,69 @@
+/** AAKASH MATTOO*/
+body{
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    background-color: #8B008B;
+}
+body > div {
+  color: #8B008B;
+}
+
+section a {
+    line-height: 50px;
+    height: 50px;
+ }  
+/** AAKASH MATTOO*/
+
+h1 {
+    color:  #FFA07A;
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+}
+a:hover {
+    text-decoration: none;
+    text-shadow: 4px 4px 4px black;
+}
+
+/** AAKASH MATTOO*/
+ a {
+    text-align: center;
+    font-weight: bolder;
+    color: plum;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+/** AAKASH MATTOO*/
+a:hover {
+    color: plum;
+    background-color: black;
+}
+section {
+ text-align: center;
+ 
+}
+
+body > a {
+	text-align: center
+	font-size : 5px;
+}
+
+/** AAKASH MATTOO*/
+
+/** THIS IS FOR END HEADER */
+/** AAKASH MATTOO*/
+
+
+/** HOME PAGE **/
+
+
+footer {
+    font-size: 15px;
+    text-align: center;
+    margin-right: 10px;
+    color: white;
+}
+
+
+/** THIS IS END HOME PAGE **/
+/** AAKASH MATTOO*/
