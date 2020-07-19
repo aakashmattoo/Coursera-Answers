@@ -43,6 +43,11 @@ I hope you justify my performance with your grading. Have a look below.*
 ```markdown  
 
 ```
+# COURSE COMPLETED*
+### [VIEW MY CERTIFICATE HERE!](https://www.coursera.org/account/accomplishments/records/HHHY5Z5ZE2WL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+```markdown  
+
+```
 ## Contact
 Having trouble with Pages? Please mail me at  @aakash.mattoo2019@vitbhopal.ac.in
 
