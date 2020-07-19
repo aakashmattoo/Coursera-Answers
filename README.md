@@ -32,7 +32,7 @@ I hope you justify my performance with your grading. Have a look below.*
 ### Module 4 
 
 * *[Assignment 4 description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)*
-* **[Solution of Assignment 4]()**
+* **[Solution of Assignment 4](https://aakashmattoo.github.io/COURSERA/mod-4-sol/index3.html)**
 
 ```markdown  
 
