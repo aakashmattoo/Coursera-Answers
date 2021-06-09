@@ -1,6 +1,6 @@
 <img src = "http://mma.prnewswire.com/media/482639/Coursera_Logo.jpg?w=950" width = 650 alt="COURSERA">
 
-# HTML, CSS and Javascript for Web Developers
+# HTML, CSS and JavaScript for Web Developers
 ### *My solutions to the assignments of the Coursera course.*
 
 ```markdown
