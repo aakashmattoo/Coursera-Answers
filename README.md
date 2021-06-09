@@ -1,5 +1,8 @@
+<img src = "http://mma.prnewswire.com/media/482639/Coursera_Logo.jpg?w=950" width = 650 alt="COURSERA">
+
 # HTML, CSS and Javascript for Web Developers
 ### *My solutions to the assignments of the Coursera course.*
+
 ```markdown
 
 ```
@@ -49,8 +52,7 @@ I hope you justify my performance with your grading. Have a look below.*
 
 ```
 ## Contact
-Having trouble with Pages? Please mail me at  @aakash.mattoo2019@vitbhopal.ac.in
-
+Having trouble with Pages? Please mail me at  @aakashmattoo01@gmail.com
 
 
 
